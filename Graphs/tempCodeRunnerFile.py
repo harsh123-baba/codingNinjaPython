@@ -1,0 +1,5 @@
+.addEgde(0, 1)
+# g.addEgde(0, 2)
+# # g.addEgde(1, 3)
+# g.addEgde(2 , 1)
+# g.addEgde(0, 4)
